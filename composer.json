@@ -1,0 +1,20 @@
+{
+    "name": "huxuebao/http",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huxuebao",
+            "email": "hxb1475425379@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "huxuebao\\http\\": "src/http/lib"
+        }
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
